@@ -26,7 +26,7 @@ This is a repository for an Automatic Speech Recognition System designed using D
 
 1. Clone the repository
 2. Open MATLAB and navigate to the cloned repository
-3. Run the main.m file
+3. Run the SpeechRecognation.m file
 
 ## Usage
 
