@@ -13,7 +13,6 @@ This is a repository for an Automatic Speech Recognition System designed using D
 
 ## Features
 
-- Recognizes spoken words and phrases and converts them into text
 - Uses various DSP techniques such as filtering, feature extraction, and classification
 - Customizable to recognize specific words and phrases
 - Includes a user interface for inputting speech and viewing recognized text
